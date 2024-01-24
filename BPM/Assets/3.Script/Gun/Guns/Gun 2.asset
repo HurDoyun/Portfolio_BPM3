@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b847dadfa0f82ff4da0445d3e9e7f6c4, type: 3}
+  m_Name: Gun 2
+  m_EditorClassIdentifier: 
+  name: "2\uBC88\uC9F8 \uCD1D"
+  prefab: {fileID: 5607537400135805015, guid: af227342f38ec24419c8a9e146f25f3e, type: 3}
+  reloadTime: 1
+  damage: 5
+  fireRate: 0
+  shootForce: 100
+  dirForce: 10
+  maxDisance: 30
+  magazineSize: 8
+  bulletsPerTap: 1
+  spread: 1
